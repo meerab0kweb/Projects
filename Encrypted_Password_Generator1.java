@@ -18,14 +18,11 @@ public static void main(String[] args) {//method heading or prototype
 
 
 // -------------------------------------------------------
-
 // Written by: Meerab Khan
-
-
 // -------------------------------------------------------- 
 
-//This program Write a java program using nested selection statement(s) and a while loop that takes user input a
-//word (string) and generates a password based on the following conversion:
+//This program Write a java program using nested selection statements and a while loop that takes user input a
+//word string and generates a password based on the following conversion:
 // If the character being analyzed is a digit, it concatenates the digit character to the new string.
 // If the character is a lower-case letter, it concatenates the corresponding character to the new
 //string as listed in the table below.
