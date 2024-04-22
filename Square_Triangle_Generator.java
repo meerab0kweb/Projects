@@ -11,22 +11,22 @@ public class Answer2 {public static void main(String[] args) {
 // Written by: Meerab 
 
 
-// -------------------------------------------------------- 
+/* -------------------------------------------------------- 
   
 // This program outputs a perimeter of a 2D shape with the sum of all its sides.This program displays a menu to
-//the user to draw a shape and calculate its perimeter based on the user inputs.
-// If user enters 1 which means Square, the program prompts user the length of it.
-//Then it draws a square using ‘X’, the primary diagonal with ‘\’ and the secondary
-//diagonal with ‘\’.
-//Also, it displays the perimeter based on the user input. For example, if user
-//enters 6 as the length of one side, perimeter is calculated as, 6*4=24
-// If user enters 2 which means Triangle, the program gets the length of it from user.
-//Then it draws the triangle using the ‘X’.
-//Also, it displays the perimeter based on the user input. For example, if user
-//enters 5 as the length of one side, perimeter is computed as, 5*3=15.
-// If user enters 3 which means Quit, the program is terminated with a closing message.
-//if user enters an invalid menu choice, the program continues prompting until a
-//valid choice is entered. 
+the user to draw a shape and calculate its perimeter based on the user inputs.
+ If user enters 1 which means Square, the program prompts user the length of it.
+Then it draws a square using ‘X’, the primary diagonal with ‘\’ and the secondary
+diagonal with ‘\’.
+Also, it displays the perimeter based on the user input. For example, if user
+enters 6 as the length of one side, perimeter is calculated as, 6*4=24
+ If user enters 2 which means Triangle, the program gets the length of it from user.
+Then it draws the triangle using the ‘X’.
+Also, it displays the perimeter based on the user input. For example, if user
+enters 5 as the length of one side, perimeter is computed as, 5*3=15.
+ If user enters 3 which means Quit, the program is terminated with a closing message.
+if user enters an invalid menu choice, the program continues prompting until a
+valid choice is entered. */
 
   
   
