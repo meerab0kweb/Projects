@@ -13,7 +13,7 @@ public class Answer2 {public static void main(String[] args) {
 
 /* -------------------------------------------------------- 
   
-// This program outputs a perimeter of a 2D shape with the sum of all its sides.This program displays a menu to
+This program outputs a perimeter of a 2D shape with the sum of all its sides.This program displays a menu to
 the user to draw a shape and calculate its perimeter based on the user inputs.
  If user enters 1 which means Square, the program prompts user the length of it.
 Then it draws a square using ‘X’, the primary diagonal with ‘\’ and the secondary
