@@ -2,15 +2,17 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package assignment2;
+package square_triangle_generator;
 import java.util.Scanner;//import scanner
 
-public class Answer2 {public static void main(String[] args) {
-       // -------------------------------------------------------
-
+public class Square_Triangle_Generator {
+  
+  
+  public static void main(String[] args) {
+    
+    
+ // -------------------------------------------------------
 // Written by: Meerab 
-
-
 /* -------------------------------------------------------- 
   
 This program outputs a perimeter of a 2D shape with the sum of all its sides.This program displays a menu to
