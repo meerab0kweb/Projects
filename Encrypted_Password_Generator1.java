@@ -2,11 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package assignment2;
+package encrypted_password_generator1;
 import java.util.Scanner;//import scanner
 
  
-public class Assignment2 {
+public class Encrypted_Password_Generator1 {
    //method define for the program to recognize when the user enters a digit
 public static boolean isDigit(char c) {//method definition heading the variable c is declared as char for digits
         //method body
